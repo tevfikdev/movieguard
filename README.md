@@ -9,9 +9,8 @@ Kullanıcılar rastgele içerikleri keşfedebilir, arama yapabilir ve beğendikl
 - 🔐 **Google ile giriş yapma** (Firebase Authentication)  
 - ☁️ **Veri kaydı & izleme listesi** (Firestore Database)  
 - 🎲 **Rastgele film & dizi getirme (Shuffle)**  
-- 🔍 **Arama, tür, ülke ve yıl filtreleme**  
-- 🖤 **Karanlık tema & modern tasarım**   
-
+- 🔍 **Arama, tür, ülke ve yıl filtreleme**
+  
 ---
 
 ## 👨‍💻 Geliştirici
