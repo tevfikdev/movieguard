@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Film & Dizi Shuffle</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+<header>
+  <div class="user-info" id="userMenu">
+    <span id="userName">Kullanıcı</span>
+    <div class="dropdown" id="dropdownMenu">
+      <a href="#">👤 Hesabım</a>
+      <a href="watchlist.html">⭐ İzleme Listem</a>
+      <a href="#" id="logoutBtn">🚪 Çıkış Yap</a>
+    </div>
+  </div>
+  <h1>🎬 Film & Dizi Shuffle</h1>
+</header>
+
+<input type="text" id="searchBox" placeholder="Film veya dizi adı yaz..." />
+<button id="searchBtn">Ara</button><br>
+<select id="type">
+  <option value="">🎞️ Tür Seç</option>
+  <option value="movie">🎥 Film</option>
+  <option value="tv">📺 Dizi</option>
+</select>
+<select id="genre">
+  <option value="">🎞️ Tüm Kategoriler</option>
+  <option value="28">Aksiyon</option>
+  <option value="35">Komedi</option>
+  <option value="27">Korku</option>
+  <option value="878">Bilim Kurgu</option>
+  <option value="10749">Romantik</option>
+  <option value="16">Animasyon</option>
+  <option value="12">Macera</option>
+  <option value="18">Dram</option>
+</select>
+<select id="country">
+  <option value="">🌍 Tüm Ülkeler</option>
+  <option value="TR">🇹🇷 Türkiye</option>
+  <option value="US">🇺🇸 ABD</option>
+  <option value="GB">🇬🇧 İngiltere</option>
+  <option value="FR">🇫🇷 Fransa</option>
+  <option value="DE">🇩🇪 Almanya</option>
+  <option value="JP">🇯🇵 Japonya</option>
+  <option value="KR">🇰🇷 Güney Kore</option>
+  <option value="IT">🇮🇹 İtalya</option>
+  <option value="ES">🇪🇸 İspanya</option>
+</select>
+<input type="number" id="year" placeholder="Yıl - Tüm Yıllar" />
+<input type="number" id="count" placeholder="Kaç tane?" max="200" />
+<button id="get">İçeriği Getir</button>
+<button id="shuffle">🎲 Shuffle</button>
+
+<div class="posters" id="posters"></div>
+
+</body>
+</html>
