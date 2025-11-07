@@ -1,4 +1,4 @@
-# 🎬 MovieGuard
+# 🎬 MovieGuard - TMDB Api
 
 🎥 **MovieGuard**, film ve dizi tutkunları için geliştirilmiş modern bir web uygulamasıdır.  
 Kullanıcılar rastgele içerikleri keşfedebilir, arama yapabilir ve beğendiklerini ⭐ **izleme listesine** ekleyebilir.
