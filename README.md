@@ -16,7 +16,7 @@ Kullanıcılar rastgele içerikleri keşfedebilir, arama yapabilir ve beğendikl
 1.
 <img src="https://raw.githubusercontent.com/tevfikdev/movieguard/refs/heads/main/assets/images/movieguard1.jpg?raw=true" width="400" align="left" alt="MovieGuard Banner">
 2.
-<img src="https://raw.githubusercontent.com/tevfikdev/movieguard/refs/heads/main/assets/images/movieguard1.jpg?raw=true" width="400" align="left" alt="MovieGuard Banner">
+<img src="https://raw.githubusercontent.com/tevfikdev/movieguard/refs/heads/main/assets/images/movieguard2.jpg?raw=true" width="400" align="left" alt="MovieGuard Banner">
 
 
 ---
